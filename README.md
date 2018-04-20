@@ -32,7 +32,7 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 ### Collections
 - [X] Arrays
 - [X] Challenge: Arrays
-- [ ] Lists
+- [X] Lists
 - [ ] Challenge: Lists
 - [ ] Maps
 - [ ] Challenge: Maps
