@@ -33,7 +33,7 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 - [X] Arrays
 - [X] Challenge: Arrays
 - [X] Lists
-- [ ] Challenge: Lists
+- [X] Challenge: Lists
 - [ ] Maps
 - [ ] Challenge: Maps
 - [ ] Which Collection To Use?
