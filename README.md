@@ -34,7 +34,7 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 - [X] Challenge: Arrays
 - [X] Lists
 - [X] Challenge: Lists
-- [ ] Maps
+- [X] Maps
 - [ ] Challenge: Maps
 - [ ] Which Collection To Use?
 - [ ] Mutable vs Immutable
