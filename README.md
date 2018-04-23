@@ -35,7 +35,7 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 - [X] Lists
 - [X] Challenge: Lists
 - [X] Maps
-- [ ] Challenge: Maps
+- [X] Challenge: Maps
 - [ ] Which Collection To Use?
 - [ ] Mutable vs Immutable
 
