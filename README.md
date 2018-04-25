@@ -36,8 +36,8 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 - [X] Challenge: Lists
 - [X] Maps
 - [X] Challenge: Maps
-- [ ] Which Collection To Use?
-- [ ] Mutable vs Immutable
+- [X] Which Collection To Use?
+- [X] Mutable vs Immutable
 
 ### Lambdas
 - [ ] Higher-Order VS Lambdas
