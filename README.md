@@ -40,7 +40,7 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 - [X] Mutable vs Immutable
 
 ### Lambdas
-- [ ] Higher-Order VS Lambdas
+- [X] Higher-Order VS Lambdas
 - [ ] Syntax
 - [ ] Challenge: Lambdas
 - [ ] Generics
