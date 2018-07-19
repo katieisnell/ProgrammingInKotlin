@@ -43,7 +43,7 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 - [X] Higher-Order VS Lambdas
 - [X] Syntax
 - [X] Challenge: Lambdas
-- [ ] Generics
+- [X] Generics
 - [ ] Challenge: Generics
 
 ### Classes
