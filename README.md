@@ -42,7 +42,7 @@ These are my coding solutions to the [RayWenderlich video series](https://videos
 ### Lambdas
 - [X] Higher-Order VS Lambdas
 - [X] Syntax
-- [ ] Challenge: Lambdas
+- [X] Challenge: Lambdas
 - [ ] Generics
 - [ ] Challenge: Generics
 
